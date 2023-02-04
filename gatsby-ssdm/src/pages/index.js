@@ -10,8 +10,10 @@ const IndexPage = () => {
           <p>Testing the website</p>
           <StaticImage
           alt={"this a photo of dog"}
-              src={"https://pbs.twimg.com/media/E1oMV3QVgAIr1NT?format=jpg&name=large"}
-          ></StaticImage>
+              //src={"https://pbs.twimg.com/media/E1oMV3QVgAIr1NT?format=jpg&name=large"}
+          src={"../images/icon.png"}
+          >
+          </StaticImage>
       </Layout>
   )
 }
