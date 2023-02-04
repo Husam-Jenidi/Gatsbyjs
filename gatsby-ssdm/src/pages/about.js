@@ -1,14 +1,16 @@
 
 import Greeting from "../components/Greeting"
 import * as React from 'react'
+import {Link} from "gatsby";
 
 // Rendering the <Greeting> component
 const SayHello = () => {
     return (
         <div>
-            <Greeting name1="dsdASDASDsdn" />
-            <Greeting nameSSS1="Obinnasdasda" />
-            <Greeting name1="Geneasdasrosa" />
+            <Greeting name="Husa" />
+            <Greeting name="sham" />
+            <Greeting name="sana" />
+            <h1><Link to="../">home</Link> </h1>
         </div>
     )
 }
