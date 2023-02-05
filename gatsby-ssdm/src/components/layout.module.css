@@ -1,6 +1,13 @@
+.site-Title{
+    font-size: 3rem;
+    color: #411717;
+    font-weight: 600;
+    margin : 3rem 0;
+
+}
 .container {
-    margin: 10px;
-    max-width: 300px;
+    margin: auto;
+    max-width: 75%;
     font-family: sans-serif;
 
 }
@@ -16,5 +23,6 @@
     padding-right: 2rem;
 }
 .nav-link-text  {
-    color:black;
+    color: #000000;
+    font-weight: bold;
 }
