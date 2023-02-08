@@ -4,7 +4,7 @@
 /*after any change to this file your need to restart the server again*/
 module.exports = {
     siteMetadata: {
-        title:"Gatsby-SSD",
+        title:"Gatsby-SSDM",
         siteUrl: `https://www.yourdomain.tld`,
     },
     plugins: [
